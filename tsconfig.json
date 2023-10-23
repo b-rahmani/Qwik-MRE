@@ -1,0 +1,181 @@
+{
+	"extends": "./TsConfigBase",
+	"compilerOptions": {
+		"paths": {
+			"Accounts": [
+				"src/Modules/Accounts/Exports"
+			],
+			"Aggregates": [
+				"src/Modules/Aggregates/Exports"
+			],
+			"Base": [
+				"src/Base/Exports"
+			],
+			"Blog": [
+				"src/Modules/Blog/Exports"
+			],
+			"BlogParts": [
+				"src/Components/BlogParts/Exports"
+			],
+			"Brands": [
+				"src/Modules/Brands/Exports"
+			],
+			"BrandsParts": [
+				"src/Components/BrandsParts/Exports"
+			],
+			"Capabilities": [
+				"src/Components/Capabilities/Exports"
+			],
+			"Careers": [
+				"src/Components/Careers/Exports"
+			],
+			"CompanyProfile": [
+				"src/Components/CompanyProfile/Exports"
+			],
+			"Configuration": [
+				"src/Modules/Configuration/Exports"
+			],
+			"Contact": [
+				"src/Components/Contact/Exports"
+			],
+			"Contacts": [
+				"src/Modules/Contacts/Exports"
+			],
+			"Contents": [
+				"src/Modules/Contents/Exports"
+			],
+			"Dashboard": [
+				"src/Components/Dashboard/Exports"
+			],
+			"DefaultLocale": [
+				"src/DefaultLocale.jsx"
+			],
+			"Entrepreneurship": [
+				"src/Components/Entrepreneurship/Exports"
+			],
+			"Events": [
+				"src/Modules/Events/Exports"
+			],
+			"EventsParts": [
+				"src/Components/EventsParts/Exports"
+			],
+			"Forms": [
+				"src/Modules/Forms/Exports"
+			],
+			"Galleries": [
+				"src/Modules/Galleries/Exports"
+			],
+			"GalleriesParts": [
+				"src/Components/GalleriesParts/Exports"
+			],
+			"GalleryParts": [
+				"src/Components/GalleryParts/Exports"
+			],
+			"Geo": [
+				"src/Modules/Geo/Exports"
+			],
+			"Globalization": [
+				"src/Modules/Globalization/Exports"
+			],
+			"HierarchiesParts": [
+				"src/Components/HierarchiesParts/Exports"
+			],
+			"HierarchyChildrenParts": [
+				"src/Components/HierarchyChildrenParts/Exports"
+			],
+			"Honors": [
+				"src/Components/Honors/Exports"
+			],
+			"Index": [
+				"src/Components/Index/Exports"
+			],
+			"Layout": [
+				"src/Components/Layout/Exports"
+			],
+			"Loaders": [
+				"src/Loaders"
+			],
+			"Locales": [
+				"./src/Locales"
+			],
+			"Media": [
+				"src/Modules/Media/Exports"
+			],
+			"Modules": [
+				"src/Modules/Modules/Exports"
+			],
+			"Navigation": [
+				"src/Modules/Navigation/Exports"
+			],
+			"PageParts": [
+				"src/Components/PageParts/Exports"
+			],
+			"PaginationBehaviors": [
+				"src/PaginationBehaviors"
+			],
+			"Places": [
+				"src/Modules/Places/Exports"
+			],
+			"PostParts": [
+				"src/Components/PostParts/Exports"
+			],
+			"Pricing": [
+				"src/Modules/Pricing/Exports"
+			],
+			"ProductParts": [
+				"src/Components/ProductParts/Exports"
+			],
+			"Products": [
+				"src/Modules/Products/Exports"
+			],
+			"ProductsParts": [
+				"src/Components/ProductsParts/Exports"
+			],
+			"QuestionParts": [
+				"src/Components/QuestionParts/Exports"
+			],
+			"Questions": [
+				"src/Modules/Questions/Exports"
+			],
+			"QuestionsParts": [
+				"src/Components/QuestionsParts/Exports"
+			],
+			"ResearchAndDevelopment": [
+				"src/Components/ResearchAndDevelopment/Exports"
+			],
+			"RichTextComponents": [
+				"src/RichTextComponents"
+			],
+			"Seo": [
+				"src/Modules/Seo/Exports"
+			],
+			"Shared": [
+				"src/Components/Shared/Exports"
+			],
+			"SideEffects": [
+				"src/Components/SideEffects/Exports"
+			],
+			"Social": [
+				"src/Modules/Social/Exports"
+			],
+			"SupportedLocales": [
+				"src/SupportedLocales.jsx"
+			],
+			"Svg": [
+				"src/Components/Svg/Exports"
+			],
+			"TagsParts": [
+				"src/Components/TagsParts/Exports"
+			],
+			"Taxonomy": [
+				"src/Modules/Taxonomy/Exports"
+			],
+			"Units": [
+				"src/Modules/Units/Exports"
+			],
+			"WorkAndProductionSpace": [
+				"src/Components/WorkAndProductionSpace/Exports"
+			]
+		}
+	}
+}
